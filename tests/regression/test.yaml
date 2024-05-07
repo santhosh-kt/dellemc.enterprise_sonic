@@ -55,5 +55,10 @@
     - sonic_fips
     - sonic_qos_buffer_init
     - sonic_qos_buffer
-    - sonic_pfc
+    - sonic_qos_pfc
+    - sonic_qos_maps
+    - sonic_qos_scheduler
+    - sonic_qos_wred
+    - sonic_pim_global
+    - sonic_pim_interfaces
     - test_reports
